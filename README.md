@@ -1,12 +1,13 @@
-Landing Page Project
-Table of Contents
-Instructions
-Instructions
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+#The Landing Project!
+>The project is about minipulating the dom and i have learn TONS of new information !!! this has gotta be the most informative part of a course!
+I have added a Responsive Navigation Bar and i learnt how active class works and highlighting
+## Table of Contents
+*  I eidet in the css content cause I needed it.
+* Responsive Navigation Bar , you can click it to go to a specific section , and you will go to this section.
+* It's Responsive , easy to use , pretty.
 
-To get started, open js/app.js and start building out the app's functionality
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
-About :
-I need a review of the way I write code because I feel it's not good to practice somewhere, and I may have misunderstood things about the project requirements, but I did my best to be appropriate, and I understood the parts I need to practice more and the parts I'm good at, I'm waiting for your review. 
-Mariam Shalaby.
+## Room for Improvement
+I need a review of the way I write code because I feel it's not good to practice somewhere, and I may have misunderstood things about the project requirements, but I did my best to be appropriate, and I understood the parts I need to practice more and the parts I'm good at, I'm waiting for your review.
+
+### Made By Mariam Shalaby.
