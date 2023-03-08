@@ -1,8 +1,8 @@
 #The Landing Project!
->The project is about minipulating the dom and i have learn TONS of new information !!! this has gotta be the most informative part of a course!
-I have added a Responsive Navigation Bar and i learnt how active class works and highlighting
+>The project is about minipulating the dom and i have learned TONS of new information !!! this has gotta be the most informative part of a course!
+I have added a Responsive Navigation Bar and i have learnt how active class works and highlighting .
 ## Table of Contents
-*  I eidet in the css content cause I needed it.
+*  I edited in the css content cause I needed it.
 * Responsive Navigation Bar , you can click it to go to a specific section , and you will go to this section.
 * It's Responsive , easy to use , pretty.
 
